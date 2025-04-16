@@ -44,7 +44,7 @@ Clone the repository and run the project locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/movie-list-app.git
+git clone https://github.com/karlaguinaldodev/react-js.git
 cd movie-list-app
 
 # Install dependencies

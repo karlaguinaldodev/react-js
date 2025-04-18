@@ -23,8 +23,6 @@ Bonus: We integrated Appwrite as the backend database to store and retrieve tren
 In addition to the core tutorial, I have:
 
 - Enhanced the **UI design using Tailwind CSS**
-- Refined layout and responsiveness
-- Customized component styles
 - Added personal tweaks to improve the look and feel
 
 ---
